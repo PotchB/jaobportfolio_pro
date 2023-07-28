@@ -568,8 +568,8 @@ main p {
 
 .portfolio-links li .justlinks {
     text-decoration: none;
-    background-color: rgb(255, 238, 238);
-    color: rgb(202, 3, 3);
+    background-color: rgba(240, 240, 240, 0.719);
+    color: rgb(60, 135, 206);
     padding: 7px 20px;
     border-radius: 5px;
     transition: opacity,box-shadow 0.15s;
@@ -577,7 +577,7 @@ main p {
 
 .portfolio-links li a:hover {
     opacity: 0.9;
-    color: black;
+    color: rgba(0, 0, 0, 0.795);
     box-shadow: 1px 2px 5px gray;
 }
 
